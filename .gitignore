@@ -1,0 +1,22 @@
+# Default ignored files
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+
+/shelf/
+web_src/node_modules/**
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+
+web_src
+
+src/main/resources/static/
+/src/main/resources/application.yml
+
+
+.DS_Store
